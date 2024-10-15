@@ -1,0 +1,26 @@
+body{
+    background-color: wheat;
+    display: flex;
+    justify-content: center;
+}
+
+#form{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    border: solid black 1px;
+    border-radius: 5px;
+    padding:5px
+}
+
+#submit{
+    background-color: lightgreen;
+    border-radius: 3px;
+}
+
+.crescimento{
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
